@@ -1,0 +1,2 @@
+# Geotechnik
+geotechnik exercises
